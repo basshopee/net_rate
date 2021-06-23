@@ -9,7 +9,7 @@ File name: net_rate
 
 File name: com_status_net_rate
 
-use complete/(cancel+complete order) as net_rate
+- Net_rate: complete/(cancel+complete order)
 
 - Objective: predict future net_rate
 
