@@ -1,7 +1,7 @@
 # net_rate
 shopee net_rate prediction
 
-File name: com_status_net_rate
+File name: net_rate_no_lstm_07jul21_nocut_upload
 
 - Net_rate: complete/(cancel+complete order)
 
