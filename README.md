@@ -11,7 +11,7 @@ File name: net_rate_no_lstm_07jul21_nocut_upload
 - Approach: SES(one step), ARIMA(predict 30 days), Holt Winters(predict 30 days), Random Forest(one step), SARIMAX(predict 30 days): use GMV as exogenous factor
 
 File name: net_rate_regression
-- Approach: Prophet
+- Approach: Prophet model
 
 - 1st step: single-variable regression
 
