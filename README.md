@@ -9,3 +9,10 @@ File name: net_rate_no_lstm_07jul21_nocut_upload
 - Objective: predict future net_rate
 
 - Approach: SES(one step), ARIMA(predict 30 days), Holt Winters(predict 30 days), Random Forest(one step), SARIMAX(predict 30 days): use GMV as exogenous factor
+
+File name: net_rate_regression
+- Approach: Prophet
+
+- 1st step: single-variable regression
+
+- 2nd step: multi-variables regression
