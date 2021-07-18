@@ -13,6 +13,6 @@ File name: net_rate_no_lstm_07jul21_nocut_upload
 File name: net_rate_regression
 - Approach: Prophet model
 
-- 1st step: single-variable regression
+- 1st step: single-variable regression(variables: net_rate)
 
 - 2nd step: multi-variables regression(variables: net_rate, day, month, season)
