@@ -15,4 +15,4 @@ File name: net_rate_regression
 
 - 1st step: single-variable regression
 
-- 2nd step: multi-variables regression(variables: day, month, season)
+- 2nd step: multi-variables regression(variables: net_rate, day, month, season)
